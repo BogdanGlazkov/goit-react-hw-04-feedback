@@ -1,0 +1,23 @@
+.stat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+    margin: 20 auto;
+}
+
+.statItem{
+    display: block;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+
+    background-color: lightcyan;
+}
+
+.statNum{
+    display: block;
+    font-weight: bold;
+}
